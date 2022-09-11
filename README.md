@@ -7,6 +7,10 @@ This setup is designed to bring some people to work as a team with common coding
 This starter includes some packages to work with nuxt3, vue3, typescript, Sass, bootstrap. It also includes eslint and
 prettier to format your code in the same way for the whole team.
 
+Moreover, and following
+[this thread](https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/#lf-line-feed),
+line endings are forced to `LF` within repo, but allows users to have their own configuration within IDE.
+
 ## Setup
 
 Make sure to install the dependencies:
