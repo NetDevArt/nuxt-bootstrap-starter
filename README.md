@@ -28,6 +28,11 @@ pnpm install --shamefully-hoist
 
 Make sure to configure your IDE to use prettier & eslint to format your files.
 
+### Lint and pre-commit Hook
+
+[Check this link to get more details](https://leighdinaya.com/blog/configure-eslint-prettier-husky-commitlint-nuxt3/)
+
+
 ### Bootstrap
 
 Bootstrap is set to import components individually through scss imports.  
